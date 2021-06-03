@@ -2,3 +2,5 @@ array/AplicacaoAray.java
  array.AplicacaoAray
 list/AplicacaoList.java
  list.AplicacaoList
+list/AplicacaoVector.java
+ list.AplicacaoVector
