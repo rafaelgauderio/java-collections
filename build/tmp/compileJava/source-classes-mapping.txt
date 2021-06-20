@@ -6,3 +6,5 @@ list/AplicacaoVector.java
  list.AplicacaoVector
 queue/AplicationQueue.java
  queue.AplicationQueue
+set/aplicacaoSet.java
+ set.aplicacaoSet
