@@ -8,3 +8,5 @@ queue/AplicationQueue.java
  queue.AplicationQueue
 set/aplicacaoSet.java
  set.aplicacaoSet
+set/ExampleHashSet.java
+ set.ExampleHashSet
