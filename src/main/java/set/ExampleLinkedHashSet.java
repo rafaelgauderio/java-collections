@@ -19,7 +19,7 @@ public class ExampleLinkedHashSet {
         numericalSequence.add(8);
         numericalSequence.add(32);
         numericalSequence.add(64);
-        
+
         System.out.println(numericalSequence);
 
         //remove the set number

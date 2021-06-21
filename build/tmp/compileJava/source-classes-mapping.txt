@@ -12,3 +12,5 @@ set/ExampleHashSet.java
  set.ExampleHashSet
 set/ExampleLinkedHashSet.java
  set.ExampleLinkedHashSet
+set/ExampleTreeSet.java
+ set.ExampleTreeSet
