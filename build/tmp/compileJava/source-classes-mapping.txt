@@ -10,3 +10,5 @@ set/aplicacaoSet.java
  set.aplicacaoSet
 set/ExampleHashSet.java
  set.ExampleHashSet
+set/ExampleLinkedHashSet.java
+ set.ExampleLinkedHashSet
